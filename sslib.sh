@@ -19,7 +19,7 @@
 # SOFTWARE.
 
 # 流量采样间隔,单位为秒
-INTERVEL=300
+INTERVEL=60
 # 指定Shadowsocks程序文件
 SSSERVER=ssserver
 
